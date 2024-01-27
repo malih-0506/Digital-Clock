@@ -1,4 +1,4 @@
 # Digital-Clock
 
 
-digital-clock.muddassir-alial.repl.co
+https://replit.com/@Muddassir-AliAl/Digital-Clock
